@@ -10,6 +10,10 @@
   text-decoration: none;
 }
 
+.header__lang-link:hover {
+  opacity: .8;
+}
+
 @media screen and (max-width: 255px) {
   .header__lang-link {
     margin: 18px 0 0 0;
