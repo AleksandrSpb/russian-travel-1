@@ -1,0 +1,27 @@
+.header__lang-link {
+  display: block;
+  margin-left: 18px;
+  font-family: 'Inter', Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 255px) {
+  .header__lang-link {
+    margin: 18px 0 0 0;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .header__lang-link {
+    font-size: 24px;
+    line-height: 28px;
+  }
+}
+
+
+

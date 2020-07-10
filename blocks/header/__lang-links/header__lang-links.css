@@ -1,0 +1,12 @@
+.header__lang-links {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+}
+
+@media screen and (max-width: 255px) {
+  .header__lang-links {
+    flex-direction: column;
+  }
+}
