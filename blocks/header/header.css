@@ -11,5 +11,6 @@
 @media screen and (max-width: 255px) {
   .header {
     flex-direction: column;
+    padding-bottom: 24px;
   }
 }
