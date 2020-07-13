@@ -26,22 +26,18 @@
 
 @media screen and (max-width: 767px) {
   .photo-grid {
+    grid-template-columns: repeat(auto-fit, minmax(256px, 1fr));
     max-width: 720px;
-    padding: 0 16px 64px 16px;
+    padding-bottom: 64px;
     grid-gap: 12px;
   }
 }
 
-@media screen and (max-width: 319px) {
+@media screen and (max-width: 320px) {
   .photo-grid {
-    padding: 0 8px 64px 8px;
+    grid-template-columns: minmax(100px, 1fr);
+    max-width: 720px;
+    padding-bottom: 64px;
     grid-gap: 12px;
-  }
-}
-
-@media screen and (max-width: 299px) {
-  .photo-grid {
-    padding: 0 0 64px 0;
-    grid-gap: 6px;
   }
 }
