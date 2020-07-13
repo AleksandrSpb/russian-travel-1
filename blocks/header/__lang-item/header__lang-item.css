@@ -6,8 +6,3 @@
   margin-right: 0;
 }
 
-@media screen and (max-width: 255px) {
-  .header__lang-item {
-    margin-right: 0;
-  }
-}
