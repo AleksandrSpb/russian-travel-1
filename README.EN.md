@@ -12,7 +12,6 @@
 * Flexbox 
 * Grid Layout 
 * Positioning Elements 
-* Animation and Transform using CSS 
 * BEM Methodology 
 * File Structure and File Paths (Nested BEM) 
 * Git 
