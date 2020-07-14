@@ -18,10 +18,3 @@
     line-height: 1;
   }
 }
-
-@media screen and (max-width: 200px) {
-  .footer__list {
-    font-size: 18px;
-  }
-}
-
