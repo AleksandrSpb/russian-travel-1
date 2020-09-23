@@ -20,3 +20,6 @@
 #### Ссылка на макет: [Макет в "Figma"](https://drive.google.com/file/d/1PA3d-rIn5ncNtcODT_42haGpmgquCk7t/view?usp=sharing) 
 
 #### Ссылка на чеклист: [Чеклист проектной работы](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-3/index.html) 
+
+#### Будущая доработка проекта будет включать в себя: 
+* сборка проекта средствами Webpack 
